@@ -1,0 +1,9 @@
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+node_modules/
+*.iml
+*.DS_Store
